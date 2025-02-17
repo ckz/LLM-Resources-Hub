@@ -40,3 +40,8 @@ https://github.com/SillyTavern/SillyTavern
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 https://github.com/camenduru/stable-diffusion-webui-colab
+
+
+#### others
+
+https://github.com/imfing/hextra
