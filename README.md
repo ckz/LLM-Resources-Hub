@@ -1,2 +1,7 @@
 # LLM-Resources-Hub
 learning resources about LLM / AI , books , courses , videos, library 
+
+
+### LLMs Guidebook
+
+https://github.com/iamaziz/LLMs-guidebook-for-engineers-and-scientists
