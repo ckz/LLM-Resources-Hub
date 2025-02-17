@@ -13,3 +13,10 @@ https://github.com/SylphAI-Inc/LLM-engineer-handbook
 ### LLMS HandBook the book
 
 https://github.com/PacktPublishing/LLM-Engineers-Handbook
+
+
+## Framework
+
+### Anything LLM
+
+https://github.com/Mintplex-Labs/anything-llm
