@@ -14,6 +14,13 @@ https://github.com/SylphAI-Inc/LLM-engineer-handbook
 
 https://github.com/PacktPublishing/LLM-Engineers-Handbook
 
+# AI development tools
+
+https://bolt.new
+
+
+
+
 
 ## Framework
 
@@ -32,6 +39,15 @@ https://github.com/open-webui/open-webui
 ### Silly Tavern
 
 https://github.com/SillyTavern/SillyTavern
+
+
+## need to tags(api)
+
+https://github.com/LostRuins/koboldcpp
+
+https://github.com/theroyallab/tabbyAPI
+
+https://aihorde.net
 
 -----------------------------------------------------------------------------
 
