@@ -20,6 +20,7 @@ https://bolt.new
 
 aider.chat
 
+https://www.cursor.com
 
 
 ## Framework
