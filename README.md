@@ -29,6 +29,10 @@ https://github.com/wandb/openui
 
 https://github.com/open-webui/open-webui
 
+### Silly Tavern
+
+https://github.com/SillyTavern/SillyTavern
+
 -----------------------------------------------------------------------------
 
 ### others images 
