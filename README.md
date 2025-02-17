@@ -18,7 +18,7 @@ https://github.com/PacktPublishing/LLM-Engineers-Handbook
 
 https://bolt.new
 
-
+aider.chat
 
 
 
