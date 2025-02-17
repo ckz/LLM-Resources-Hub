@@ -9,3 +9,7 @@ https://github.com/iamaziz/LLMs-guidebook-for-engineers-and-scientists
 ### LLM Engineer handbook the list
 
 https://github.com/SylphAI-Inc/LLM-engineer-handbook
+
+### LLMS HandBook the book
+
+https://github.com/PacktPublishing/LLM-Engineers-Handbook
