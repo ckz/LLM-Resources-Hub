@@ -29,7 +29,10 @@ https://github.com/wandb/openui
 
 https://github.com/open-webui/open-webui
 
+-----------------------------------------------------------------------------
 
 ### others images 
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/camenduru/stable-diffusion-webui-colab
