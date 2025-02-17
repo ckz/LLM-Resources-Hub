@@ -20,3 +20,7 @@ https://github.com/PacktPublishing/LLM-Engineers-Handbook
 ### Anything LLM
 
 https://github.com/Mintplex-Labs/anything-llm
+
+### OpenUi
+
+https://github.com/wandb/openui
