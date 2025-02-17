@@ -24,3 +24,12 @@ https://github.com/Mintplex-Labs/anything-llm
 ### OpenUi
 
 https://github.com/wandb/openui
+
+### Open WebUI
+
+https://github.com/open-webui/open-webui
+
+
+### others images 
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
