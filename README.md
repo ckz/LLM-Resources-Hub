@@ -25,7 +25,7 @@ https://github.com/Mintplex-Labs/anything-llm
 
 https://github.com/wandb/openui
 
-### Open WebUI
+### Open WebUI **
 
 https://github.com/open-webui/open-webui
 
