@@ -48,6 +48,10 @@ https://github.com/huggingface/smolagents
 
 https://github.com/block/goose
 
+### MCP related
+
+https://github.com/punkpeye/awesome-mcp-servers
+
 
 ## need to tags(api)
 
