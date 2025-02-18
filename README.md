@@ -42,6 +42,13 @@ https://github.com/open-webui/open-webui
 https://github.com/SillyTavern/SillyTavern
 
 
+https://github.com/microsoft/OmniParser
+
+https://github.com/huggingface/smolagents
+
+https://github.com/block/goose
+
+
 ## need to tags(api)
 
 https://github.com/LostRuins/koboldcpp
