@@ -41,6 +41,10 @@ https://github.com/open-webui/open-webui
 
 https://github.com/SillyTavern/SillyTavern
 
+https://fireworks.ai 
+
+genai hosting
+
 
 https://github.com/microsoft/OmniParser
 
