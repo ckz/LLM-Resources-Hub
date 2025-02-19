@@ -52,6 +52,8 @@ https://github.com/block/goose
 
 https://github.com/punkpeye/awesome-mcp-servers
 
+https://github.com/Portkey-AI
+
 
 ## need to tags(api)
 
