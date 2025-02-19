@@ -54,6 +54,8 @@ https://github.com/punkpeye/awesome-mcp-servers
 
 https://github.com/Portkey-AI
 
+https://portkey.ai/mcp-servers
+
 
 ## need to tags(api)
 
