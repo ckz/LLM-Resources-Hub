@@ -29,6 +29,9 @@ https://www.cursor.com
 
 https://github.com/Mintplex-Labs/anything-llm
 
+### llama index
+https://github.com/run-llama/llama_index
+
 ### OpenUi
 
 https://github.com/wandb/openui
@@ -41,10 +44,14 @@ https://github.com/open-webui/open-webui
 
 https://github.com/SillyTavern/SillyTavern
 
+
+
+
+###genai hosting
+
+https://api.together.ai/
+
 https://fireworks.ai 
-
-genai hosting
-
 
 https://github.com/microsoft/OmniParser
 
