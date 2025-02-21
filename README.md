@@ -67,6 +67,9 @@ https://github.com/Portkey-AI
 
 https://portkey.ai/mcp-servers
 
+### 1000+ mcp servers & use cases
+https://www.pulsemcp.com/
+
 
 ## need to tags(api)
 
