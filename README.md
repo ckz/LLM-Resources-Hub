@@ -70,6 +70,8 @@ https://portkey.ai/mcp-servers
 ### 1000+ mcp servers & use cases
 https://www.pulsemcp.com/
 
+### official
+https://github.com/modelcontextprotocol/
 
 ## need to tags(api)
 
