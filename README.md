@@ -44,8 +44,13 @@ https://github.com/open-webui/open-webui
 
 https://github.com/SillyTavern/SillyTavern
 
+### Mode
 
+https://www.mode.network/
 
+### OpenManus
+
+https://github.com/mannaandpoem/OpenManus
 
 ###genai hosting
 
