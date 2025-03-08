@@ -52,7 +52,7 @@ https://www.mode.network/
 
 https://github.com/mannaandpoem/OpenManus
 
-###genai hosting
+### Genai hosting
 
 https://api.together.ai/
 
