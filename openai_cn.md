@@ -6,3 +6,8 @@ https://github.com/mastra-ai/mastra
 
 
 ### OpenAi的SDK
+
+
+https://github.com/openai/openai-assistants-quickstart
+
+一个测试的openai assistants的项目
