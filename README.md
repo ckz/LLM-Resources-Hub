@@ -44,6 +44,10 @@ https://github.com/open-webui/open-webui
 
 https://github.com/SillyTavern/SillyTavern
 
+### CrewAI
+
+https://github.com/crewAIInc/crewAI
+
 ### Mode
 
 https://www.mode.network/
