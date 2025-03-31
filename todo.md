@@ -24,3 +24,5 @@ https://github.com/boukeversteegh/ai-terminal-assistant
 8. https://github.com/warpdotdev/Warp
 
 9. https://github.com/dspinellis/ai-cli-lib
+
+![comparison](https://github.com/ckz/LLM-Resources-Hub/blob/main/imgs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-31%20181735.png?raw=true)
