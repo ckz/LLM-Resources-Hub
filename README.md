@@ -70,7 +70,7 @@ https://github.com/block/goose
 
 ### MCP related
 
-https://github.com/punkpeye/awesome-mcp-servers
+https://github.com/punkpeye/awesome-mcp-servers (glama.ai)
 
 https://github.com/Portkey-AI
 
